@@ -1,1 +1,1 @@
-Criando um repositorio remoto como exercicio EBAC
+Neste repositório realizarei meus exércicios de mosulo do Curso de desenvolvimento EBAC.
