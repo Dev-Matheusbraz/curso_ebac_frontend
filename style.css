@@ -51,10 +51,18 @@ header li a {
 #entreteniment {
     color: black;
     background-color: yellowgreen;
+    border-style: solid;
+    padding: 10px;
+}
+
+#tecnology {
+    color: black;
+    background-color: aquamarine;
+    border-style: solid;
+    padding: 10px;
 }
 
 .container {
-    display: flex;
     width: 1366px;
     margin: 0 auto;
 }
@@ -75,6 +83,7 @@ header li a {
 
 section {
     padding: 16px 0;
+    justify-content: space-between;
 }
 
 section h2,
@@ -115,9 +124,17 @@ section h2 {
 }
 
 #economia {
-    background-color: aliceblue;
+    background-color: rgb(236, 195, 182);
 }
 
 #esportes {
+    background-color: rgb(186, 233, 186);
+}
+
+#entretenimento {
     background-color: aliceblue;
+}
+
+#tecnologia {
+    background-color: rgb(201, 228, 219);
 }
