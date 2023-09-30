@@ -10,6 +10,20 @@ header {
     color: #ecf0f1;
 }
 
+header,
+section h2 {    
+    font-family: 'Bungee';
+}
+
+header h1,
+section h2 {
+    font-weight: normal;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
 header nav li {
     display: inline;
     margin-left: 16px;
@@ -40,7 +54,7 @@ section .container {
 
 .brands-list li {
     display: inline;
-    margin: 8px;
+    margin-right: 8px;
 }
 
 section .container {
@@ -60,7 +74,7 @@ section p {
     margin-bottom: 8px;
 }
 
-.store-front {
+.store {
     margin-right: 32px;
 }
 
