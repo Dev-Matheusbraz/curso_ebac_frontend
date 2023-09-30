@@ -11,16 +11,13 @@ header {
 }
 
 header,
-section h2 {    
+section h2,
+section h3 {    
     font-family: 'Bungee';
-}
-
-header h1,
-section h2 {
     font-weight: normal;
 }
 
-body {
+body, input, textarea {
     font-family: 'Roboto';
 }
 
@@ -66,7 +63,8 @@ section {
     color: #182c61;
 }
 
-section h2 {
+section h2,
+section h3 {
     margin-bottom: 16px;
 }
 
@@ -128,4 +126,10 @@ textarea:focus {
 
 .social-links li a {
     text-decoration: none;
+}
+
+footer {
+    background-color: #182c61;
+    color: #ecf0f1;
+    padding: 16px 0;
 }
