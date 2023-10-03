@@ -1,4 +1,4 @@
-function cauculaArea(base, heigth) {
-    let area = base * heigth;
+function cauculaArea(base, height) {
+    let area = base * height;
     return area;
 };
