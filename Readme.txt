@@ -1,1 +1,0 @@
-Neste repositório realizarei meus exércicios de mosulo do Curso de desenvolvimento EBAC.
